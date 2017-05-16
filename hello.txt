@@ -2,4 +2,8 @@ hello git
 hello git2
 hello git3
 create a new branch "dev"
+<<<<<<< HEAD
 create a new branch "feature1"
+=======
+create a new branch "featrue1"
+>>>>>>> feature1
